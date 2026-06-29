@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/janvihegde/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/janvihegde/leetcode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/janvihegde/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/janvihegde/leetcode/tree/master/0274-h-index) |
 ## Sorting
@@ -23,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/janvihegde/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/janvihegde/leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
