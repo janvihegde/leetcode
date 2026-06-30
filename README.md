@@ -45,13 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/janvihegde/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/janvihegde/leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/janvihegde/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/janvihegde/leetcode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/janvihegde/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/janvihegde/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
