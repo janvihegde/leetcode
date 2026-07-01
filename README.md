@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janvihegde/leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/janvihegde/leetcode/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/janvihegde/leetcode/tree/master/0068-text-justification) |
 | [0134-gas-station](https://github.com/janvihegde/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/janvihegde/leetcode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/janvihegde/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/janvihegde/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/janvihegde/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/janvihegde/leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/janvihegde/leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/janvihegde/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/janvihegde/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/janvihegde/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
