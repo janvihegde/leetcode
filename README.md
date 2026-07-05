@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/janvihegde/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/janvihegde/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/janvihegde/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/janvihegde/leetcode/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/janvihegde/leetcode/tree/master/0068-text-justification) |
 | [0134-gas-station](https://github.com/janvihegde/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/janvihegde/leetcode/tree/master/0135-candy) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/janvihegde/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/janvihegde/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/janvihegde/leetcode/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvihegde/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/janvihegde/leetcode/tree/master/0076-minimum-window-substring) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/janvihegde/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
