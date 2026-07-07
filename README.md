@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/janvihegde/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/janvihegde/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/janvihegde/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/janvihegde/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/janvihegde/leetcode/tree/master/0068-text-justification) |
 | [0134-gas-station](https://github.com/janvihegde/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/janvihegde/leetcode/tree/master/0135-candy) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/janvihegde/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/janvihegde/leetcode/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/janvihegde/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/janvihegde/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/janvihegde/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
